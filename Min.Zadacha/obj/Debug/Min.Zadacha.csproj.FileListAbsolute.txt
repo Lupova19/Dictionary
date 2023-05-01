@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Min.Zadacha\bin\Debug\Min.Zadacha.exe.config
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Min.Zadacha\bin\Debug\Min.Zadacha.exe
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Min.Zadacha\bin\Debug\Min.Zadacha.pdb
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Min.Zadacha\obj\Debug\Min.Zadacha.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Min.Zadacha\obj\Debug\Min.Zadacha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Min.Zadacha\obj\Debug\Min.Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Min.Zadacha\obj\Debug\Min.Zadacha.exe
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Min.Zadacha\obj\Debug\Min.Zadacha.pdb

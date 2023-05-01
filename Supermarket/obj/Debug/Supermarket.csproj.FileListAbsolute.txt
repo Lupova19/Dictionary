@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Supermarket\obj\Debug\Supermarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\Admin\Desktop\Lupova19\Dictionary\Supermarket\obj\Debug\Supermarket.pdb

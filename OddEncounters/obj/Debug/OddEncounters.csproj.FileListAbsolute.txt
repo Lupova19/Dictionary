@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Dictionary\OddEncounters\bin\Debug\OddEncounters.exe.config
+C:\Users\Admin\Desktop\Lupova19\Dictionary\OddEncounters\bin\Debug\OddEncounters.exe
+C:\Users\Admin\Desktop\Lupova19\Dictionary\OddEncounters\bin\Debug\OddEncounters.pdb
+C:\Users\Admin\Desktop\Lupova19\Dictionary\OddEncounters\obj\Debug\OddEncounters.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Dictionary\OddEncounters\obj\Debug\OddEncounters.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Dictionary\OddEncounters\obj\Debug\OddEncounters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Dictionary\OddEncounters\obj\Debug\OddEncounters.exe
+C:\Users\Admin\Desktop\Lupova19\Dictionary\OddEncounters\obj\Debug\OddEncounters.pdb
